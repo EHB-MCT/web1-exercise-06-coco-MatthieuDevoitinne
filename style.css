@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+
+body {
+	margin: 0;
+	font-family: "Abel", sans-serif;
+}
+
+.wrapper {
+	width: 1200px;
+	height: 750px;
+	background-image: url(images/coco.jpg);
+	margin: 0 auto;
+}
+
+.insidebox {
+	width: 35%;
+	height: 700px;
+	float: right;
+	margin-top: 150px;
+}
+
+.insidebox img {
+	width: 300px;
+}
+
+h1 {
+	color: white;
+}
+
+p {
+	color: white;
+	margin-bottom: 30px;
+}
+a {
+	background-color: red;
+	padding: 10px;
+	border-radius: 10px;
+}
